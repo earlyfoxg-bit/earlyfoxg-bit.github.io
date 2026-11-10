@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.earlyfoxg_bit.twa",
+    "sha256_cert_fingerprints": ["1E:F5:7D:B1:CF:1F:71:E2:BD:64:09:DE:AC:0B:BE:A7:85:4F:3D:05:F1:4E:C9:53:40:FC:66:8E:31:93:45:B3"]
+  }
+}]
